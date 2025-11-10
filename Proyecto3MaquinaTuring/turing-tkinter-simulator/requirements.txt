@@ -1,0 +1,4 @@
+Tkinter
+numpy
+regex
+Pillow
